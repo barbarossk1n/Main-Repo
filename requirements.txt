@@ -1,0 +1,11 @@
+numpy
+pandas
+openpyxl
+bs4
+selenium
+requests
+webdriver-manager
+seaborn
+matplotlib
+ipywidgets
+jupyterlab_widgets
